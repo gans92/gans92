@@ -27,6 +27,28 @@
 </a>
 </p>
 
+ <p align="center">
+  <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="nodejs" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="cpp" width="40" height="40"/>
+  </a>
+  <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="js" width="40" height="40"/>
+   </a>
+   <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" alt="vscode" width="40" height="40"/>
+   </a>
+</p>
+<h4 align="center">
+
 <img src="https://activity-graph.herokuapp.com/graph?username=gans92&theme=react-dark" alt="drawing" width="800"/>
 
 ![Metrics](https://metrics.lecoq.io/gans92?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo)
