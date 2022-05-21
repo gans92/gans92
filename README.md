@@ -28,6 +28,9 @@
 </p>
 
  <p align="center">
+   <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
   <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="nodejs" width="40" height="40"/>
    </a>
@@ -39,9 +42,6 @@
    </a>
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="js" width="40" height="40"/>
-   </a>
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" alt="vscode" width="40" height="40"/>
