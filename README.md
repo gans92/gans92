@@ -18,14 +18,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/gans92">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=gans92&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  </a>
-</a>
-</p>
+
 
  <p align="center">
    <a href="https://code.visualstudio.com/">
