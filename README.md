@@ -2,23 +2,6 @@
 <div style="width: 10px;"></div>
 
 <p align="center">
-  <a href="https://github.com/gans92">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=Gans92&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/gans92">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gans92&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
-
- <p align="center">
   <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="nodejs" width="40" height="40"/>
    </a>
@@ -35,6 +18,24 @@
       <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="vscode" width="40" height="40"/>
    </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/gans92">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=Gans92&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+<!--   <a href="https://github.com/gans92">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gans92&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a> -->
+</p>
+
 <h4 align="center">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gans92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
