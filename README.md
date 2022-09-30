@@ -6,7 +6,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=Gabriel Machado&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=Gans92&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/gans92">
@@ -18,12 +18,7 @@
   </a>
 </p>
 
-
-
  <p align="center">
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
   <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="nodejs" width="40" height="40"/>
    </a>
@@ -37,7 +32,7 @@
       <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="js" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="vscode" width="40" height="40"/>
    </a>
 </p>
 <h4 align="center">
