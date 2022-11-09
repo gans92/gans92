@@ -4,11 +4,11 @@
 ### Hi there 👋, my name is Gabriel Machado
 #### Front-end developer
 
-Skills:  ReactJs | React Native | Styled-Components | Tailwind | Yarn | Npm 
+Skills:  ReactJs | React Native | Styled-Components | Tailwind | Yarn | Npm
 
 #### Framework and Libraries
 
-<img witdh="40px" height="40px" src="https://skillicons.dev/icons?i=git,html,css,js,react,styledcomponents">
+<img witdh="40px" height="40px" src="https://skillicons.dev/icons?i=git,html,css,js,react,styledcomponents,typescript">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gans92)](https://github.com/anuraghazra/github-readme-stats) 
 
