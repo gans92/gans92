@@ -27,7 +27,7 @@
 
 #### Languages and Tools:
 
-<img witdh="80px" height="80px" src="https://skillicons.dev/icons?i=git,html,css,js,react,styledcomponents,typescript,nodejs,express,mysql,postman">
+<img witdh="80px" height="80px" src="https://skillicons.dev/icons?i=git,html,css,js,typescript,styledcomponents,sass,react,nextjs,nodejs,express,mysql,nestjs,dotnet">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gans92)](https://github.com/anuraghazra/github-readme-stats) 
 
