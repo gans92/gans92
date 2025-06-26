@@ -5,8 +5,6 @@
 
 #
 
-<h1 align="center">Hi 👋, I'm Gabriel Alisson</h1>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96514967/215737394-254a8fb5-6cd2-45cc-98d1-34604dab337b.gif" alt="Sublime's custom image"/>
 </p>
@@ -19,9 +17,7 @@
 
 #
 
-- 🌱 I’m currently learning: **nodejs, back end and data mining**
-
-- 📫 My contact: **gabri.alisson.23@gmail.com**
+- 🌱 I’m currently learning: **nodejs, backend and data mining**
 
 - ⚡ My interests: **I like programming and watch movies**
 
